@@ -6,9 +6,9 @@ I founded two companies, where I've learnt to love working on all facettes of a 
 
 Find me here:
 
-- [Twitter](twitter.com/eneskaya)
-- [LinkedIn](linkedin.com/u/ekaya90)
-- My Blog: [eneskaya.dev](eneskaya.dev)
+- [Twitter](https://twitter.com/eneskaya)
+- [LinkedIn](https://linkedin.com/u/ekaya90)
+- My Blog: [eneskaya.dev](https://eneskaya.dev)
 
 <!--
 **eneskaya/eneskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
