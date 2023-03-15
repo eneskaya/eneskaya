@@ -7,7 +7,7 @@ I founded two companies, where I've learnt to love working on all facettes of a 
 Find me here:
 
 - [Twitter](https://twitter.com/eneskaya)
-- [LinkedIn](https://linkedin.com/u/ekaya90)
+- [LinkedIn](https://www.linkedin.com/in/ekaya90/)
 - My Blog: [eneskaya.dev](https://eneskaya.dev)
 
 <!--
