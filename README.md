@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a product-oriented web engineer, working across the full stack. I live in 🇩🇪 Germany with my beautiful wife and son. I currently work at [Tailwarden](https://github.com/tailwarden). Check it out!
+I am a product-oriented web engineer, working across the full stack. I live in 🇩🇪 Germany with my beautiful wife and son. I currently work at [Spotify](https://github.com/spotify). Check it out!
 
 I founded two companies, where I've learnt to love working on all facettes of a product, from conception to fund-raising, to marketing. I have also worked at larger organizations, like Spotify. Lately, I focus on frontend engineering with React and experiment with building my own software business.
 
